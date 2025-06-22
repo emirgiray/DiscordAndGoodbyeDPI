@@ -33,7 +33,7 @@ A tiny launcher that:
 
 - C#
 - WinForms (.NET Framework 4.8)
-- ❤️ by [your-name-or-github-username]
+- ❤️ by [emirgiray]
 
 ---
 
