@@ -9,7 +9,7 @@ A tiny launcher that:
 
 ### 📥 Download
 
-👉 [**Download latest version**](https://github.com/your-username/DiscordAndGoodbyeDPI/releases/latest)
+👉 [**Download latest version**](https://github.com/emirgiray/DiscordAndGoodbyeDPI/releases/latest)
 
 ---
 
