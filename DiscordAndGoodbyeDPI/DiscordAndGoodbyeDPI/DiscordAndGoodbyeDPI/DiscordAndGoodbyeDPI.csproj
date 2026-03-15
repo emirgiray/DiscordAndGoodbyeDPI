@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
@@ -7,6 +7,9 @@
         <UseWindowsForms>true</UseWindowsForms>
         <ImplicitUsings>enable</ImplicitUsings>
         <RootNamespace>DiscordAndGoodbyeDPI</RootNamespace>
+        <AssemblyName>DPILink</AssemblyName>
+        <Product>DPI Link</Product>
+        <ApplicationIcon>app_icon.ico</ApplicationIcon>
     </PropertyGroup>
 
 </Project>
